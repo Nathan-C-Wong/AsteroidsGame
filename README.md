@@ -1,5 +1,5 @@
 # Asteroids Game 
-Created by Nathan Wong
+Created by Nathan Wong \
 Inspired by the original Asteroids Game by Atari
 
 ## Built using the openFrameworks c++ toolkit
